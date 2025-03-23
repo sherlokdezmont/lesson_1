@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7bea7ac-adc2-4a2d-834a-3d477332114c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson04_chisla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson04_cikly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson04_statistika.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,29 +30,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.chernovik.executor": "Run",
-    "Python.lesson03.executor": "Run",
-    "Python.lesson03_chisla.executor": "Run",
-    "Python.lesson03_f.executor": "Run",
-    "Python.lesson03_spiski.executor": "Run",
-    "Python.lesson04_chisla.executor": "Run",
-    "Python.lesson04_cikly.executor": "Run",
-    "Python.lesson04_statistika.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.chernovik.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson03_chisla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson03_f.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson03_spiski.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson04_chisla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson04_cikly.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson04_statistika.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Evgeny\Documents\lesson_1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="lesson03_f" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lesson_1" />
       <option name="ENV_FILES" value="" />
